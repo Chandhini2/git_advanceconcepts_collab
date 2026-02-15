@@ -1,4 +1,4 @@
 # git_advanceconcepts_collab
 Gitcollab features 
 
-What commit you want me to do?
+I am trying to learn or implement git hub commands and pushing and pulling the request from local to git hub and git hub to local 
